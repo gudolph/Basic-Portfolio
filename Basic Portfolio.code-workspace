@@ -7,5 +7,7 @@
 			"path": "C:\\Users\\gudol\\UofU\\Homework\\HW1"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "basic-portfolio"
+	}
 }
